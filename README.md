@@ -19,7 +19,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="Calendário da Copa" src=".github/preview.jpg" width="100%">
+  <img alt="Calendário da Copa" src=".github/prewiev.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -40,7 +40,7 @@ https://github.com/mrnsato/nlw-10-copa
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através do [link no Figma](https://www.figma.com/file/01Q1puG6BFnVmHLlYzWuch/Calend%C3%A1rio-de-Jogos-(Community)?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através do [link no Figma](<https://www.figma.com/file/01Q1puG6BFnVmHLlYzWuch/Calend%C3%A1rio-de-Jogos-(Community)?node-id=0%3A1>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
