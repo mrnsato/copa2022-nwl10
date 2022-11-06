@@ -52,17 +52,6 @@ header {
   gap: 32px;
 }
  
-.estilo{
-   display: flex;
-   gap: 16px;
-   justify-content: center;
-   align-items: center;
-
-   padding: 5px 10px;
-   border: 1px solid var(--card-color-primary);
-   border-radius: 6px;
-}
-
 .card {
   padding: 32px 23px;
   text-align: center;
