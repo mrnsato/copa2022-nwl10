@@ -8,7 +8,7 @@ function createGame(player1, hour, player2) {
   `
 }
 
-function createCard(date, day,games) {
+function createCard(date, day, games) {
   return ` 
   <div class="card">
      <h2>${date} <span>${day}</span></h2>
@@ -21,7 +21,7 @@ function createCard(date, day,games) {
 }
 
 document.querySelector("#cards").innerHTML =
-  createCard("20/11", "domindo", createGame("qatar", "16:00", "ecuador")) +
+  createCard("20/11", "domingo", createGame("qatar", "13:00", "ecuador")) +
   createCard(
     "21/11",
     "segunda",
