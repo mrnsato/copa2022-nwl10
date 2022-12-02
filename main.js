@@ -133,13 +133,13 @@ document.querySelector("#cards").innerHTML =
     "05/12",
     "segunda",
     createGame("croatia", "12:00", "japan") +
-      createGame("aconfirmar", "16:00", "aconfirmar")
+      createGame("southkorea", "16:00", "aconfirmar")
   ) +
   createCard(
     "06/12",
     "terça",
     createGame("morroco", "12:00", "spain") +
-      createGame("aconfirmar", "16:00", "aconfirmar")
+      createGame("portugal", "16:00", "aconfirmar")
   ) +
   createCard(
     "09/12",
